@@ -21,3 +21,5 @@ Exploratory Queries: Users can explore important queries related to the data ana
 2. Choose a category (transaction or user).
 3. Click the "Visualize!" button to see the data on the map and trend graph.
 4. Explore important queries by selecting them from the dropdown list and clicking "Enlighten!"
+
+5. ## (Note : while using this Indian_State.GeoJSON File which i attched in repository, U must match the names of state in ur data with the Name of States in GeoJson File Word by word to Work. i.e its Case-Sensitive.)
